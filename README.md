@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @wthislifehuh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science
-- 📫 joe000ee@gmail.com
+- 📫 joeee0ee@gmail.com

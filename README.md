@@ -1,7 +1,7 @@
 # Short Description
-- 👋 Hi, I’m @wthislifehuh
+- 👋 Hi, I’m @wthislifehuh (Joeee)
 - 👀 I love learning and exploring new things🚀
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently a Y3S3 Computer Science Student, part timer, contractor
 - 🎨 Transforming ideas into captivating user experiences and leveraging data for impactful solutions.
 
 # Contact Me

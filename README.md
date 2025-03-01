@@ -6,7 +6,7 @@
 
 # Contact Me
 - 📫 joeee0ee@gmail.com
-- 🤗 Visit my LinkedIn: www.linkedin.com/in/joe-ee-ho-701ab2244
+- 🤗 Visit my LinkedIn: www.linkedin.com/in/joe-ee-h
 
 # My PROPER Introduction
 

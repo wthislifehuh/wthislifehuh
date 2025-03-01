@@ -1,4 +1,4 @@
-# Hi!!
+# Hi there 🫶
 - 👋 Hi, I’m @wthislifehuh (Joeee)
 - 👀 I love learning and exploring new things🚀
 - 🌱 I’m currently a Y3S3 Computer Science Student, part timer, contractor

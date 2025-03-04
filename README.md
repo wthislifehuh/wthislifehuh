@@ -54,7 +54,7 @@
 </p>
 
 ## Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wthislifehuh&theme=dark)](https://git.io/streak-stats)
 [![GitHub followers](https://img.shields.io/github/followers/wthislifehuh?label=Follow&style=social)](https://github.com/wthislifehuh) 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=wthislifehuh&label=Profile%20views&color=0e75b6&style=flat" alt="wthislifehuh" /> 

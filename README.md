@@ -26,7 +26,7 @@ If you’re looking for a motivated and enthusiastic person who’s eager to lea
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
       </a>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="javascript" width="40" height="40"/> 
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -35,7 +35,12 @@ If you’re looking for a motivated and enthusiastic person who’s eager to lea
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
       </a>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      </a>
+      <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="java" width="65" height="65"/> 
+      </a>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 

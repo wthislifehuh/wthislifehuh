@@ -1,20 +1,18 @@
-<h1>Hi there 🫶, I'm Joe Ee</h1>
-<h3>🎨 Transforming ideas into captivating user experiences and leveraging data for impactful solutions.</h3>
+<h1>Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> , I'm Joe Ee</h1>
+<h3> Part-time **snack enthusiast** 🍧, part-time **code tinkerer** 👩‍💻, and full-time **dreamer** ☁️</h3>
 
 ## ✨About Me
-Hi all! I’m Joe Ee, part-time **snack enthusiast** 🍧, part-time **code tinkerer** 👩‍💻, and full-time **dreamer** ☁️
 - 🏦 I’m currently a **final semester Computer Science student** and **part-time** developer.
 - 📝 I’m passionate about turning ideas into software applications and designs that don’t just look good but actually work well (*yes, I’m looking at you, buggy code*).
 - 🐈 Fun fact: My cat can act like a dog!
 - 📄 Holding a 𝐯𝐚𝐥𝐢𝐝 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐇𝐨𝐥𝐢𝐝𝐚𝐲 𝐕𝐢𝐬𝐚 (𝐖𝐇𝐕) 𝐟𝐨𝐫 𝐍𝐞𝐰 𝐙𝐞𝐚𝐥𝐚𝐧𝐝 (Obtained Feb 2025), I am actively seeking 𝐜𝐨𝐧𝐭𝐫𝐚𝐜𝐭, 𝐭𝐞𝐦𝐩𝐨𝐫𝐚𝐫𝐲, 𝐨𝐫 𝐩𝐚𝐫𝐭-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞𝐬 𝐢𝐧 𝐈𝐓, software engineering, DevOps, or AI-related fields starting end of July/early of August 2025.
 
-If you’re looking for a motivated and enthusiastic person who’s eager to learn, grow, and contribute to your team, I’d be delighted to explore potential opportunities.
-
 *Expected Graduation*: May 2025
 
-## 📫 Contact Me
-- **Email:** [joeee0ee@gmail.com](mailto:joeee0ee@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/joe-ee-ho](https://www.linkedin.com/in/joe-ee-ho)
+## 📫 Connect with Me
+- [![Gmail Badge](https://img.shields.io/badge/-joeee0ee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joeee0ee@gmail.com)](mailto:joeee0ee@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-JoeEe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-ee-ho)](https://www.linkedin.com/in/joe-ee-ho)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/wthislifehuh)](https://github.com/wthislifehuh)
 
 ## 💻 Tech I worked on:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wthislifehuh&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
@@ -56,8 +54,9 @@ If you’re looking for a motivated and enthusiastic person who’s eager to lea
 </p>
 
 ## Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
+[![GitHub followers](https://img.shields.io/github/followers/wthislifehuh?label=Follow&style=social)](https://github.com/wthislifehuh) 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=wthislifehuh&label=Profile%20views&color=0e75b6&style=flat" alt="wthislifehuh" /> 
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wthislifehuh&theme=dark)](https://git.io/streak-stats)
 

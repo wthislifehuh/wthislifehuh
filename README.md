@@ -55,7 +55,7 @@
 
 ## 📜 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wthislifehuh&theme=dark)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wthislifehuh&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub followers](https://img.shields.io/github/followers/wthislifehuh?label=Follow&style=social)](https://github.com/wthislifehuh) 
 

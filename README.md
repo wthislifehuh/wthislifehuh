@@ -54,8 +54,7 @@
 </p>
 
 ## 📜 Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wthislifehuh&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=wthislifehuh&theme=dark)]
 
 [![GitHub followers](https://img.shields.io/github/followers/wthislifehuh?label=Follow&style=social)](https://github.com/wthislifehuh) 
 

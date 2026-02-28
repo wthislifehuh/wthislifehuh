@@ -10,6 +10,7 @@
 *Expected Graduation*: May 2025
 
 ## 📫 Connect with Me
+- Portfolio: [joeee.dev](https://joeee.dev  )
 - [![Gmail Badge](https://img.shields.io/badge/-joeee0ee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joeee0ee@gmail.com)](mailto:joeee0ee@gmail.com)
 - [![Linkedin Badge](https://img.shields.io/badge/-JoeEe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-ee-ho)](https://www.linkedin.com/in/joe-ee-ho)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/wthislifehuh)](https://github.com/wthislifehuh)

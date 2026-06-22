@@ -34,12 +34,12 @@ joeee@os:~$ whoami
 joeee@os:~$ cat ./about.txt
 > I lead AI programs end-to-end — from idea to production —
 > building intelligent systems for logistics at scale.
-> Mission: turn ideas into software that doesn't just look
-> good, but actually works well. (yes, looking at you, buggy code)
+> Mission: Driving AI transformation @ GDEX — I build, strategise
+> and yap: talking ROI with CEOs, turning "AI hype" into shipped
+> product, and bridging the boardroom with the codebase.
 
-joeee@os:~$ env | grep -E 'BASE|VISA|FUN'
+joeee@os:~$ env | grep -E 'BASE|FUN'
 BASE=Malaysia 🇲🇾
-VISA=New Zealand Working Holiday Visa (open to contract / remote)
 FUN_FACT=my cat can act like a dog 🐈
 
 joeee@os:~$ open https://joeee.dev   # full dispatch ▸

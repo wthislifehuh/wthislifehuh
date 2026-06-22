@@ -1,65 +1,126 @@
-<h1>Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> , I'm Joe Ee</h1>
-<h3> Part-time **snack enthusiast** 🍧, part-time **code tinkerer** 👩‍💻, and full-time **dreamer** ☁️</h3>
+<!-- ════════════════════════════════════════════════════════════════════
+     JOEEE.OS  ·  Digital Dispatch
+     Retro Terminal × Vintage Editorial × AI Systems Dashboard
+     ════════════════════════════════════════════════════════════════════ -->
 
-## ✨About Me
-- 🏦 I’m currently a **final semester Computer Science student** and **part-time** developer.
-- 📝 I’m passionate about turning ideas into software applications and designs that don’t just look good but actually work well (*yes, I’m looking at you, buggy code*).
-- 🐈 Fun fact: My cat can act like a dog!
-- 📄 Holding a 𝐯𝐚𝐥𝐢𝐝 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐇𝐨𝐥𝐢𝐝𝐚𝐲 𝐕𝐢𝐬𝐚 (𝐖𝐇𝐕) 𝐟𝐨𝐫 𝐍𝐞𝐰 𝐙𝐞𝐚𝐥𝐚𝐧𝐝 (Obtained Feb 2025), I am actively seeking 𝐜𝐨𝐧𝐭𝐫𝐚𝐜𝐭, 𝐭𝐞𝐦𝐩𝐨𝐫𝐚𝐫𝐲, 𝐨𝐫 𝐩𝐚𝐫𝐭-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞𝐬 𝐢𝐧 𝐈𝐓, software engineering, DevOps, or AI-related fields starting end of July/early of August 2025.
+<a href="https://joeee.dev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0A09,55:C96B1D,100:E8852A&height=210&section=header&text=JOEEE.OS&fontColor=F4ECDD&fontSize=72&fontAlignY=40&desc=AI%20PROGRAM%20LEAD%20%E2%80%94%20DIGITAL%20DISPATCH&descAlignY=60&descSize=16&descAlignX=50" width="100%" alt="JOEEE.OS" />
+</a>
 
-*Expected Graduation*: May 2025
-
-## 📫 Connect with Me
-- Portfolio: [joeee.dev](https://joeee.dev  )
-- [![Gmail Badge](https://img.shields.io/badge/-joeee0ee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joeee0ee@gmail.com)](mailto:joeee0ee@gmail.com)
-- [![Linkedin Badge](https://img.shields.io/badge/-JoeEe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-ee-ho)](https://www.linkedin.com/in/joe-ee-ho)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/wthislifehuh)](https://github.com/wthislifehuh)
-
-## 💻 Tech I worked on:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wthislifehuh&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- ── DISPATCH TAGS ──────────────────────────────────────────────────── -->
 <p align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-      </a>
-       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="javascript" width="40" height="40"/> 
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-      </a>
-      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      </a>
-      <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="java" width="65" height="65"/> 
-      </a>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/JUN_2026-7E7464?style=flat-square&labelColor=0B0A09" alt="date" />
+  <img src="https://img.shields.io/badge/AI-E8852A?style=flat-square&labelColor=0B0A09" alt="ai" />
+  <img src="https://img.shields.io/badge/LOGISTICS-E8852A?style=flat-square&labelColor=0B0A09" alt="logistics" />
+  <img src="https://img.shields.io/badge/●_ONLINE-5FA76B?style=flat-square&labelColor=0B0A09" alt="online" />
+  <a href="https://joeee.dev"><img src="https://img.shields.io/badge/▸_joeee.dev-0B0A09?style=flat-square&labelColor=E8852A&color=0B0A09" alt="joeee.dev" /></a>
+</p>
+
+<!-- ── BOOT SEQUENCE ──────────────────────────────────────────────────── -->
+<p align="center">
+  <a href="https://joeee.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=2600&pause=900&color=E8852A&background=0B0A0900&center=true&vCenter=true&width=720&lines=%3E+booting+JOEEE.OS+...;%3E+Joe+Ee+Ho+%E2%80%94+AI+Program+Lead+%40+GDEX;%3E+turning+ideas+into+systems+that+ship;%3E+ready+%E2%80%94+welcome+aboard+%E2%96%B8" alt="boot sequence" />
   </a>
 </p>
 
-## 📜 Stats
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=wthislifehuh&theme=dark)](https://git.io/streak-stats)
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-[![GitHub followers](https://img.shields.io/github/followers/wthislifehuh?label=Follow&style=social)](https://github.com/wthislifehuh) 
+### `↑ WHOAMI` &nbsp; ──────────────────────────────────────────────
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=wthislifehuh&label=Profile%20views&color=0e75b6&style=flat" alt="wthislifehuh" /> 
+```bash
+joeee@os:~$ whoami
+> Joe Ee Ho · AI Program Lead @ GDEX (GD Express)
+
+joeee@os:~$ cat ./about.txt
+> I lead AI programs end-to-end — from idea to production —
+> building intelligent systems for logistics at scale.
+> Mission: turn ideas into software that doesn't just look
+> good, but actually works well. (yes, looking at you, buggy code)
+
+joeee@os:~$ env | grep -E 'BASE|VISA|FUN'
+BASE=Malaysia 🇲🇾
+VISA=New Zealand Working Holiday Visa (open to contract / remote)
+FUN_FACT=my cat can act like a dog 🐈
+
+joeee@os:~$ open https://joeee.dev   # full dispatch ▸
+```
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+### `↑ AT A GLANCE` &nbsp; ──────────────────────────────────────────
+
+| `ROLE` | `DOMAIN` | `FOCUS` | `STATUS` |
+|:---|:---|:---|:---|
+| **AI Program Lead** | **Logistics / GDEX** | **AI · ML · LLMs** | **● Operational** |
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+### `// STACK` &nbsp; ───────────────────────────────────────────────
+
+**`▸ AI / ML / LLMs`**
+
+![Python](https://img.shields.io/badge/Python-E8852A?style=flat-square&logo=python&logoColor=F4ECDD&labelColor=0B0A09)
+![LLMs](https://img.shields.io/badge/LLMs-E8852A?style=flat-square&logo=openai&logoColor=F4ECDD&labelColor=0B0A09)
+![LangChain](https://img.shields.io/badge/LangChain-E8852A?style=flat-square&logo=langchain&logoColor=F4ECDD&labelColor=0B0A09)
+![PyTorch](https://img.shields.io/badge/PyTorch-E8852A?style=flat-square&logo=pytorch&logoColor=F4ECDD&labelColor=0B0A09)
+![Pandas](https://img.shields.io/badge/Pandas-E8852A?style=flat-square&logo=pandas&logoColor=F4ECDD&labelColor=0B0A09)
+
+**`▸ WEB / FRONTEND`**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-C96B1D?style=flat-square&logo=typescript&logoColor=F4ECDD&labelColor=0B0A09)
+![JavaScript](https://img.shields.io/badge/JavaScript-C96B1D?style=flat-square&logo=javascript&logoColor=F4ECDD&labelColor=0B0A09)
+![React](https://img.shields.io/badge/React-C96B1D?style=flat-square&logo=react&logoColor=F4ECDD&labelColor=0B0A09)
+![Next.js](https://img.shields.io/badge/Next.js-C96B1D?style=flat-square&logo=next.js&logoColor=F4ECDD&labelColor=0B0A09)
+![Tailwind](https://img.shields.io/badge/Tailwind-C96B1D?style=flat-square&logo=tailwindcss&logoColor=F4ECDD&labelColor=0B0A09)
+![Flutter](https://img.shields.io/badge/Flutter-C96B1D?style=flat-square&logo=flutter&logoColor=F4ECDD&labelColor=0B0A09)
+
+**`▸ BACKEND / DEVOPS`**
+
+![Node.js](https://img.shields.io/badge/Node.js-7E7464?style=flat-square&logo=node.js&logoColor=F4ECDD&labelColor=0B0A09)
+![Java](https://img.shields.io/badge/Java-7E7464?style=flat-square&logo=openjdk&logoColor=F4ECDD&labelColor=0B0A09)
+![Docker](https://img.shields.io/badge/Docker-7E7464?style=flat-square&logo=docker&logoColor=F4ECDD&labelColor=0B0A09)
+![Git](https://img.shields.io/badge/Git-7E7464?style=flat-square&logo=git&logoColor=F4ECDD&labelColor=0B0A09)
+![MySQL](https://img.shields.io/badge/MySQL-7E7464?style=flat-square&logo=mysql&logoColor=F4ECDD&labelColor=0B0A09)
+![MongoDB](https://img.shields.io/badge/MongoDB-7E7464?style=flat-square&logo=mongodb&logoColor=F4ECDD&labelColor=0B0A09)
+![Figma](https://img.shields.io/badge/Figma-7E7464?style=flat-square&logo=figma&logoColor=F4ECDD&labelColor=0B0A09)
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+### `▸ SYSTEM STATS` &nbsp; ──────────────────────────────────────────
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wthislifehuh&show_icons=true&count_private=true&hide_border=true&bg_color=0B0A09&title_color=E8852A&text_color=BCB09C&icon_color=F0A24E&ring_color=E8852A" alt="stats" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wthislifehuh&layout=compact&hide_border=true&bg_color=0B0A09&title_color=E8852A&text_color=BCB09C&hide=css,html,php" alt="top languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wthislifehuh&hide_border=true&background=0B0A09&stroke=2A2520&ring=E8852A&fire=E8852A&currStreakLabel=E8852A&sideLabels=BCB09C&dates=7E7464&currStreakNum=F4ECDD&sideNums=F4ECDD&dayLabels=BCB09C" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wthislifehuh&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
+</p>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+### `▸ ESTABLISH CONNECTION` &nbsp; ──────────────────────────────────
+
+<p align="center">
+  <a href="https://joeee.dev"><img src="https://img.shields.io/badge/PORTFOLIO-E8852A?style=flat-square&logo=googlechrome&logoColor=0B0A09&labelColor=0B0A09&color=E8852A" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/joe-ee-ho"><img src="https://img.shields.io/badge/LINKEDIN-0B0A09?style=flat-square&logo=linkedin&logoColor=F4ECDD&labelColor=0B0A09&color=2A2520" alt="linkedin" /></a>
+  <a href="mailto:joeee0ee@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0A09?style=flat-square&logo=gmail&logoColor=F4ECDD&labelColor=0B0A09&color=2A2520" alt="email" /></a>
+  <a href="https://github.com/wthislifehuh"><img src="https://img.shields.io/badge/GITHUB-0B0A09?style=flat-square&logo=github&logoColor=F4ECDD&labelColor=0B0A09&color=2A2520" alt="github" /></a>
+</p>
+
+<!-- ── COLOPHON ───────────────────────────────────────────────────────── -->
+<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wthislifehuh&label=DISPATCH%20VIEWS&color=E8852A&style=flat-square&labelColor=0B0A09" alt="views" />
+  <a href="https://github.com/wthislifehuh"><img src="https://img.shields.io/github/followers/wthislifehuh?label=FOLLOW&style=flat-square&color=E8852A&labelColor=0B0A09&logo=github" alt="followers" /></a>
+</p>
+
+<p align="center">
+  <sub><code>JOEEE.OS</code> · built &amp; maintained by Joe Ee Ho · let's build something great ▸ <a href="https://joeee.dev">joeee.dev</a></sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8852A,45:C96B1D,100:0B0A09&height=120&section=footer" width="100%" alt="footer" />
